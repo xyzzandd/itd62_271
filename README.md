@@ -1,3 +1,3 @@
-# itd62_271
+# itd62-271
 
-Hello! this is ITD62-271.
+Hello! This is ITD62-271.
